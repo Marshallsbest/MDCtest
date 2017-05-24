@@ -1,0 +1,14 @@
+{
+  "name": "lukestest",
+  "version": "1.0.0",
+  "description": "My testing folder for MDC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Marshall",
+  "license": "ISC",
+  "dependencies": {
+    "@material/base": "^0.1.3"
+  }
+}
